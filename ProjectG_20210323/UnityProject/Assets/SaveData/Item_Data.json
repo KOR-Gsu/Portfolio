@@ -1,0 +1,181 @@
+{
+  "consumeItemDataDictionary": {
+    "0": {
+      "id": "0",
+      "name": "HP Potion",
+      "type": "0",
+      "grade": "0",
+      "info": "Recover HP",
+      "price": "200",
+      "value": "20",
+      "cooldown": "0.7"
+    },
+    "1": {
+      "id": "1",
+      "name": "MP Potion",
+      "type": "0",
+      "grade": "0",
+      "info": "Recover MP",
+      "price": "250",
+      "value": "20",
+      "cooldown": "0.7"
+    }
+  },
+  "weaponItemDataDictionary": {
+    "0": {
+      "id": "0",
+      "name": "Sword",
+      "type": "0",
+      "grade": "0",
+      "info": "A short sword",
+      "price": "1000",
+      "attackDamageValue": "10",
+      "attackRangeValue": "0",
+      "intvlAttackValue": "0"
+    },
+    "1": {
+      "id": "1",
+      "name": "Sword",
+      "type": "0",
+      "grade": "1",
+      "info": "A short sword",
+      "price": "2000",
+      "attackDamageValue": "25",
+      "attackRangeValue": "0",
+      "intvlAttackValue": "0"
+    },
+    "2": {
+      "id": "2",
+      "name": "Sword",
+      "type": "0",
+      "grade": "2",
+      "info": "A short sword",
+      "price": "4000",
+      "attackDamageValue": "50",
+      "attackRangeValue": "0",
+      "intvlAttackValue": "0"
+    },
+    "3": {
+      "id": "3",
+      "name": "Spear",
+      "type": "1",
+      "grade": "0",
+      "info": "An iron spear",
+      "price": "1500",
+      "attackDamageValue": "5",
+      "attackRangeValue": "0.5",
+      "intvlAttackValue": "0"
+    },
+    "4": {
+      "id": "4",
+      "name": "Spear",
+      "type": "1",
+      "grade": "1",
+      "info": "An iron spear",
+      "price": "3000",
+      "attackDamageValue": "15",
+      "attackRangeValue": "0.5",
+      "intvlAttackValue": "0"
+    },
+    "5": {
+      "id": "5",
+      "name": "Spear",
+      "type": "1",
+      "grade": "2",
+      "info": "An iron spear",
+      "price": "6000",
+      "attackDamageValue": "30",
+      "attackRangeValue": "0.5",
+      "intvlAttackValue": "0"
+    },
+    "6": {
+      "id": "6",
+      "name": "Axe",
+      "type": "2",
+      "grade": "0",
+      "info": "An iron axe",
+      "price": "2000",
+      "attackDamageValue": "20",
+      "attackRangeValue": "0",
+      "intvlAttackValue": "0.5"
+    },
+    "7": {
+      "id": "7",
+      "name": "Axe",
+      "type": "2",
+      "grade": "1",
+      "info": "An iron axe",
+      "price": "4000",
+      "attackDamageValue": "40",
+      "attackRangeValue": "0",
+      "intvlAttackValue": "0.5"
+    },
+    "8": {
+      "id": "8",
+      "name": "Axe",
+      "type": "2",
+      "grade": "2",
+      "info": "An iron axe",
+      "price": "7000",
+      "attackDamageValue": "65",
+      "attackRangeValue": "0",
+      "intvlAttackValue": "0.5"
+    }
+  },
+  "armorItemDataDictionary": {
+    "0": {
+      "id": "0",
+      "name": "Light Armor",
+      "type": "0",
+      "grade": "0",
+      "info": "Clothes made with cloth on top",
+      "price": "2000",
+      "defenseValue": "5"
+    },
+    "1": {
+      "id": "1",
+      "name": "Light Armor",
+      "type": "0",
+      "grade": "1",
+      "info": "Clothes made with cloth on top",
+      "price": "4000",
+      "defenseValue": "10"
+    },
+    "2": {
+      "id": "2",
+      "name": "Light Armor",
+      "type": "0",
+      "grade": "2",
+      "info": "Clothes made with cloth on top",
+      "price": "6000",
+      "defenseValue": "15"
+    },
+    "3": {
+      "id": "3",
+      "name": "Heavy Armor",
+      "type": "1",
+      "grade": "0",
+      "info": "An iron armor",
+      "price": "4000",
+      "defenseValue": "10"
+    },
+    "4": {
+      "id": "4",
+      "name": "Heavy Armor",
+      "type": "1",
+      "grade": "1",
+      "info": "An iron armor",
+      "price": "7000",
+      "defenseValue": "15"
+    },
+    "5": {
+      "id": "5",
+      "name": "Heavy Armor",
+      "type": "1",
+      "grade": "2",
+      "info": "An iron armor",
+      "price": "10000",
+      "defenseValue": "20"
+    }
+  }
+}
